@@ -1,0 +1,32 @@
+body {
+    background-color: #182825;
+    font-family: Arial;
+}
+head {
+    color: #22AED1;
+}
+
+/* p {
+    color: #2FFF9E;
+    text-align: center;
+    font-family: Arial;
+} */
+
+.icecreamclass{
+    color: #6D8EA0;
+}
+
+#practicediv {
+    color: #016FB9;
+    text-align: center;
+    font-size:100px;
+}
+
+a:link{
+    color: gray;
+}
+
+a:visited{
+    color: #5B5BC9;
+}
+
